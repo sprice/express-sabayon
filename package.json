@@ -1,0 +1,25 @@
+{
+  "name": "express-sabayon",
+  "version": "0.0.1",
+  "description": "Sabayon middleware for Express",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sprice/express-sabayon.git"
+  },
+  "keywords": [
+    "sabayon",
+    "express",
+    "ssl",
+    "lets encrypt"
+  ],
+  "author": "Shawn Price",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sprice/sabayon-express/issues"
+  },
+  "homepage": "https://github.com/sprice/sabayon-express#readme",
+  "dependencies": {
+    "express": "4.13.4"
+  }
+}
