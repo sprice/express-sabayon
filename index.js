@@ -22,7 +22,7 @@ module.exports = function() {
     }
 
     return res.status(401).send()
-  });
+  })
 
   return sabayon
 }
