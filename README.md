@@ -1,4 +1,4 @@
-# Sabayon Express
+# Express Sabayon
 
 Express middleware for [Sabayon](https://github.com/dmathieu/sabayon)
 
